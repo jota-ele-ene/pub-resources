@@ -1,0 +1,14 @@
+{
+   "challenge":"",
+   "domain":Me at jln.bz,
+   "query":[
+      {
+         "credentialQuery":[
+            {
+               "example":{"type":"EmailPass"},
+               "reason":"Select a proof of email to register“
+            }],
+         "type":"QueryByExample“
+      }],
+   "type":"VerifiablePresentationRequest“
+}
